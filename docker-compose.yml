@@ -34,7 +34,7 @@ services:
     container_name: shoevista-frontend
     restart: unless-stopped
     ports:
-      - "80:80"
+      - "5073:80"
     depends_on:
       - backend
     networks:

@@ -16,7 +16,7 @@ cd ShoeVista
 docker-compose up --build
 ```
 
-Open http://localhost in your browser.
+Open http://localhost:5073 in your browser.
 
 ## Local Development
 
